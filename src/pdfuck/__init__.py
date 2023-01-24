@@ -1,4 +1,4 @@
-# pdfuck.py
+# PDFuck: pdfuck/__init__.py
 # Author JiJi <i@mmdjiji.com>
 # GitHub https://github.com/mmdjiji/pdfuck
 
